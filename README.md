@@ -17,6 +17,4 @@ This command line search engine parses text files and returns ranked search resu
 
 ## Notes
 
-## Notes
-
 This was one of the most challenging and rewarding projects in my intro Java class. I had to think about how to efficiently process large sets of text and rank results in a meaningful way. It pushed me to learn how to use hash maps and data structures like sets and lists in combination. Debugging the ranking logic taught me a lot about edge cases and how to handle empty inputs or repeated words.

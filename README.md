@@ -1,6 +1,6 @@
 # Search Engine
 
-Submitted by: **Abdulahi Abdi**
+Created by: **Abdulahi Abdi**
 
 This command line search engine parses text files and returns ranked search results based on keyword relevance.
 
